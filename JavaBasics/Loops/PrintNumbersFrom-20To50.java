@@ -1,5 +1,7 @@
 package loop;
 
+//Да се изведат на екрана числат от -20 до 50.
+
 public class Zad2 {
 
 	public static void main(String[] args) {

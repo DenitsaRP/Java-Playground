@@ -1,11 +1,14 @@
 package array;
 
+//Write Java program with 7 elements. Switch elements according following conditions: 
+//Swap elements with index: -  0 and 1, using third variable; 
+//- 2 and 3 with sum; - 4 and 5 with multiplication 
+
 import java.util.Scanner;
 
-public class Zad12 {
+public class SwapArrayElements {
 
 	public static void main(String[] args) {
-
 		Scanner sc = new Scanner(System.in);
 
 		int array[] = new int[7];

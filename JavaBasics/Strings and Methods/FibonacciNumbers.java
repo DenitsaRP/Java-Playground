@@ -3,14 +3,14 @@ package array;
 import java.util.Scanner;
 
 //Enter length for Fiboncacci numbers. Which number you want to print from the row.
-//Print on screen Fibonacci number on the chosen position.
+// Print on screen Fibonacci number on the chosen position
 
-public class FibonacciNumbersRandom {
+public class FibonacciNumbers {
 
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter Fibonacci numbers length: ");
+		System.out.println("Enter length for Fibonacci numbers: ");
 		int fibNum = sc.nextInt();
 		while (fibNum <= 0) {
 			System.out.println("Enter positive number: ");

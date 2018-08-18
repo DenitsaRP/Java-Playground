@@ -2,7 +2,7 @@ package stringsMethods;
 
 import java.util.Scanner;
 
-public class UchKRSubstring {
+public class ConcatenateString {
 
 	public static void main(String[] args) {
 		
@@ -21,11 +21,6 @@ public class UchKRSubstring {
 		
 		System.out.println("The new word is: ");
 		System.out.println(newWord);
-//		String wordPart = word.substring(0, 5);
-//		String rest = word2.substring(5, word2.length());
-//		String newWord = wordPart + rest;
-//		System.out.println(newWord);
-
 	}
 	
 	static String enterWord( ) {

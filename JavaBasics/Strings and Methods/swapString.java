@@ -1,6 +1,6 @@
 package stringsMethods;
 
-public class swapString {
+public class SwapString {
 
 	public static void main(String[] args) {
 		String a = "Silva";

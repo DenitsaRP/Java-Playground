@@ -2,7 +2,7 @@ package loop;
 
 import java.util.Scanner;
 
-public class Zad17w3 {
+public class Pattern1 {
 
 	public static void main(String[] args) {
 		//17. Write a program in Java to make such a pattern like right angle triangle with a number which will repeat a number in a row.

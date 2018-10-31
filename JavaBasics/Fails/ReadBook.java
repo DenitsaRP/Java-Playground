@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class BookRead {
+public class ReadBook {
 
 	public static void main(String[] args) throws IOException {
 		File book = new File("book.txt");

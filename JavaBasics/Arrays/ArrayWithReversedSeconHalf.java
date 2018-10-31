@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes array length and elements from user. Create new array with length 
 //equal to the first one. Take first half of original array and reverse it for the second half

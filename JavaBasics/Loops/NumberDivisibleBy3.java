@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 // Starrting from 3, write a Java program to print all numbers between 0 and N,
 // which are divisible by 3. N is entered from the keyboard. 

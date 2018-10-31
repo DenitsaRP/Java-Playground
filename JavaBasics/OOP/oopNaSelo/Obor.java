@@ -1,4 +1,4 @@
-package oopNaSelo;
+package oop.oopNaSelo;
 
 public class Obor {
 	

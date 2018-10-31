@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Factorial of n is the product of all positive descending integers.
 //Write program, that calculates n!, where n is take from the user.

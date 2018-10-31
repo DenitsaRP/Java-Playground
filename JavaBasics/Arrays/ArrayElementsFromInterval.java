@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes array length and elements from the user. 
 //Print out as result new array with elements in interval between [-2.99 to 2.99] from the first array.

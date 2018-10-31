@@ -1,4 +1,4 @@
-package oopEmployeeAbstract;
+package oop.oopEmployeeAbstract;
 
 public class EmployeeDemo {
 

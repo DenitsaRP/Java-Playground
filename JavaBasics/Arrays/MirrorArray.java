@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that checks if the entered array is mirror.
 

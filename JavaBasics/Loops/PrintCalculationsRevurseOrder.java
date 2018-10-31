@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write program that takes number from the user between 10 and 99.  
 //Print out all numbers in reverse order from input number to 0 according following conditions: 

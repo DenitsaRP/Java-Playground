@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes array with 7 elements from user – only natural numbers. 
 //Print all elements dividable by 5 and greater than 5. 

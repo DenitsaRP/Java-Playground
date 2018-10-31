@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 // Print all numbers from 1 to 10 - revurse
 

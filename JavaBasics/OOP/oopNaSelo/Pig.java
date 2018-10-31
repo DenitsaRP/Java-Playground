@@ -1,4 +1,4 @@
-package oopNaSelo;
+package oop.oopNaSelo;
 
 public abstract class Pig extends Animal {
 

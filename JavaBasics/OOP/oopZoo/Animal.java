@@ -1,4 +1,4 @@
-package oopZoo;
+package oop.oopZoo;
 
 public class Animal {
 	

@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes two arrays from the user. Print on the screen
 //if the arrays are equal and have same length.

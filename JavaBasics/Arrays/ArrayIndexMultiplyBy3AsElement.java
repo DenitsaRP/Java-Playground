@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Create an array with length of 10 elements. Each element is create by
 //multiplying array index by 3. Print the array on the screen. 

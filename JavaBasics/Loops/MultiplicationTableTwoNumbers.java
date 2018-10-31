@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write program that takes 2 numbers from the user between 1 and 9. Print as result multiplication table only with two entered numbers.
 //Expected Output : 2 2 

@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //  Enter 2 numbers from keyboard. Print numbers between those entered numbers. 
 

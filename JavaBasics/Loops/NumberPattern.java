@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //16. Write a program in Java to display the pattern like right angle triangle with a number.
 //Enter number: 3

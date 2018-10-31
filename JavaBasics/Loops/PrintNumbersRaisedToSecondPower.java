@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 // Write Java program, that takes 2 numbers from keyboard A and B.(B greater than A). 
 //Print all numbers raised to the second power. If number is divisible by 3,

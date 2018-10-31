@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes number from the user. Create an array with length of 10 elements with following conditions: 
 //1) First two elements of the array are entered number; 2) Each following element is sum of previous two elements.

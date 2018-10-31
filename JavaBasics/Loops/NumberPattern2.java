@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write a program in Java to make such a pattern like right angle triangle with number increased by 1.
 //3

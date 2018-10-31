@@ -1,4 +1,4 @@
-package oopPersonInheritance;
+package oop.oopPersonInheritance;
 
 import oopNaSelo.Animal;
 

@@ -1,4 +1,4 @@
-package oopStudentConstructors;
+package oop.oopStudentConstructors;
 
 public class Student {
 

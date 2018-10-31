@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write Java program with 7 elements. Switch elements according following conditions: 
 //Swap elements with index: -  0 and 1, using third variable; 

@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write a program in Java that calculates the sum of all numbers from 1 to num, where 
 // num is entered from the keyboard.

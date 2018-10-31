@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write Java program that prints the longest row of equal elements in an array.
 

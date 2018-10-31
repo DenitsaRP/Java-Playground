@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write a program in Java to make such a pattern 
 //like a pyramid with a number which will repeat the number 

@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write Java program that checks whether the input number(entered by user) 
 //is prime or not. The program then displays the result.

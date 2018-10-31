@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write program that prints all three - digit natural numbers, which gigit sum is 
 //entered by user and it is between 2 >= sum <= 27. 

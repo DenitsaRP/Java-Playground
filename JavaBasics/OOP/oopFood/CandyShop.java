@@ -1,4 +1,4 @@
-package oopFood;
+package oop.oopFood;
 
 public class CandyShop {
 

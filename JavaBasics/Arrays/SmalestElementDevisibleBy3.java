@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write Java program to find smalest umber in an Array, that is divisible by3.
 

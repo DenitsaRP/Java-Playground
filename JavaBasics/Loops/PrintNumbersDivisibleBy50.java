@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write program that takes 2 numbers from the user for interval. Numbers have to be between 10 and 5555. 
 //Print all numbers from the entered intervals which are divisible by 50.

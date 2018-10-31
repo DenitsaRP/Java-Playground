@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes array length and elements from user.
 //As output: Program brings those three different numbers whose

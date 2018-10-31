@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Enter number from keyboard and print numbers according following example:
 //Enter n = 3:		Enter n = 2:

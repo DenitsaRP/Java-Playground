@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //A palindrome number is a number that is same after reverse. For example 545, 151, 34543
 //Write Java program that takes natural number between 10 and 30000 and checks if the number is palindrome 

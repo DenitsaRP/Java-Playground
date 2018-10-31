@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes two arrays from user – only natural numbers. 
 //Multilpy two arrays and print it on the screen.

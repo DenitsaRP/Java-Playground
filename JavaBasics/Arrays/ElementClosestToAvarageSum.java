@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes array elements from user – only natural numbers.  
 //Print one of the element, which is closest to average sum of all elements of the array

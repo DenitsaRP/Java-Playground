@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Print all unckountable numbers from -10 to 10.
 

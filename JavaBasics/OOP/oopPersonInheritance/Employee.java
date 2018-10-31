@@ -1,4 +1,4 @@
-package oopPersonInheritance;
+package oop.oopPersonInheritance;
 
 public class Employee extends Person{
 	

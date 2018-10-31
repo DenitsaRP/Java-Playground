@@ -1,4 +1,4 @@
-package oopMankind;
+package oop.oopMankind;
 
 public class Worker extends Human {
 

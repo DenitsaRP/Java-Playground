@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes array length and elements from user. Create new array with length equal 
 //to the first one. First and last element of the new array are equal to original array.

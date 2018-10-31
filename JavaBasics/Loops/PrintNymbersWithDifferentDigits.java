@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 // Write program, that prints all natural numbers between 100 and 1000, with different digits.
 

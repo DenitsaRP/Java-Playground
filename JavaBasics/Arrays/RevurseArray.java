@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 //Write program that takes array length and elements from user.
 //Reverse the array using new helping array. Print new array on the screen. 

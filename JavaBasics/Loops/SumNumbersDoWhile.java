@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write Java program, that takes number from the user N, and prints sum between  0 and N.
 

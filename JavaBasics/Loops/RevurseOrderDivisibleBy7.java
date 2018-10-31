@@ -1,4 +1,4 @@
-package loop;
+package loops;
 
 //Write program, which takes number from the user - between 10 and 200.
 //Print in reverse order all numbers - from entered to 0, which are divisible by 7.

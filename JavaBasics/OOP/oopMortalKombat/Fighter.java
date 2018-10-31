@@ -1,4 +1,4 @@
-package oopMortalKombat;
+package oop.oopMortalKombat;
 
 import java.util.Random;
 

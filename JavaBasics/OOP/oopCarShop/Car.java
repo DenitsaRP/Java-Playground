@@ -1,4 +1,4 @@
-package oopCarShop;
+package oop.oopCarShop;
 
 public class Car {
 		
